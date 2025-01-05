@@ -666,6 +666,7 @@ nav li:has(> ul)::after {
 .footer .social_midea i {
   font-size: 25px;
   padding: 10px;
+  
 }
 .footer .social_midea i:hover {
   cursor: pointer;

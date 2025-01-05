@@ -92,3 +92,8 @@ function eraseText() {
 }
 
 window.onload = typeWriter();
+
+
+
+
+// say welcome message

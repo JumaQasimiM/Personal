@@ -97,3 +97,4 @@ window.onload = typeWriter();
 
 
 // say welcome message
+window.addEventlistener();
